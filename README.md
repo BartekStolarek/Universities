@@ -1,5 +1,5 @@
 # universities
-A simple VueJS app with universities API
+A simple VueJS app with universities API.
 
 Technologies used in this project:
 - VueJS
