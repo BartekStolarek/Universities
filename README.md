@@ -3,7 +3,7 @@ A simple VueJS app with universities API.
 
 Technologies used in this project:
 - VueJS
-- jQuery
+- Pure.css
 - Google Fonts (Quicksand)
 - FontAwesome CSS
 - CountryFlags REST API (countryflags.io)
