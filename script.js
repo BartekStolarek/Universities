@@ -12,7 +12,7 @@ var app = new Vue({
     getData: function() {
       var self = this;
       $.get('http://universities.hipolabs.com/search?name=' + this.name + '&&country=' + this.country, function(data) {
-        self.universities = JSON.parse(data);
+        self.universities = data;
       });
       this.dataToLoad = 26;
     },
