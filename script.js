@@ -14,9 +14,9 @@ var app = new Vue({
       var self = this;
       $.get('http://universities.hipolabs.com/search?name=' + this.name + '&&country=' + this.country, function(data) {
         self.universities = data;
-        self.loaded = true;
       });
       this.dataToLoad = 26;
+      this.loaded = true;
     },
     getFlagUrl: function(countryCode) {
       return "http://www.countryflags.io/" + countryCode + "/flat/64.png";
