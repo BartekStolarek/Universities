@@ -1,0 +1,67 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background: url('background.png');
+}
+#center {
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    width: 80%;
+    height: 300px;
+    text-align: center;
+}
+.title {
+    font-size: 5em;
+    color: #eee;
+}
+.pure-form {
+    margin-top: 50px;
+}
+#results {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.country {
+    margin-top: 10px;
+}
+.university-thumbnail {
+    background-color: #222;
+    color: #ddd;
+    margin: 5px;
+    transition: 1s;
+}
+.university-thumbnail:hover {
+    background-color: #111;
+}
+.left {
+    font-size: 3rem;
+    padding-top: 30px;
+}
+.right {
+    padding-top: 20px;
+}
+img {
+    width: 3rem;
+}
+.countryName {
+    font-size: 1rem;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+.website {
+    font-size: 1.15rem;
+    padding: 5px;
+}
+.website:hover {
+    cursor: pointer;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+#resultsCount {
+    font-size: 1.75rem;
+    color: #ddd;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
