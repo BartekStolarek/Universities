@@ -6,13 +6,15 @@ var app = new Vue({
     universities : [],
     countries: '',
     dataToLoad: 26,
-    scrolled: false
+    scrolled: false,
+    loaded: false
   },
   methods: {
     getData: function() {
       var self = this;
       $.get('http://universities.hipolabs.com/search?name=' + this.name + '&&country=' + this.country, function(data) {
         self.universities = data;
+        self.loaded = true;
       });
       this.dataToLoad = 26;
     },
