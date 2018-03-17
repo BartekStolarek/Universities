@@ -8,3 +8,6 @@ Technologies used in this project:
 - FontAwesome CSS
 - CountryFlags REST API (countryflags.io)
 - Universities API (universities.hipolabs.com)
+
+#Look at the Demo (https://bartekstolarek.github.io/universities/)
+Make sure that you have CROSS Origin enabled in your browser.
