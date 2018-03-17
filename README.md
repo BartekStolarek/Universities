@@ -12,6 +12,6 @@ A simple VueJS app with universities API.
 - Universities API (universities.hipolabs.com)
 
 
-# Demo
+### Demo
 https://bartekstolarek.github.io/universities/
 Make sure that you have CROSS Origin enabled in your browser.
