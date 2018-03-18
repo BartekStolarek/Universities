@@ -13,5 +13,6 @@ A simple VueJS app with universities API.
 
 
 ### Demo
-https://bartekstolarek.github.io/universities/
+http://universities.bartekstolarek.epizy.com
+
 Make sure that you have CROSS Origin enabled in your browser.
