@@ -11,8 +11,8 @@ When user types something in the input area (name or country), app will send a r
 - Pure.css
 - Google Fonts (Quicksand)
 - FontAwesome CSS
-- CountryFlags REST API (countryflags.io)
-- Universities API (universities.hipolabs.com)
+- CountryFlags REST API (http://countryflags.io)
+- Universities API (http://universities.hipolabs.com)
 
 
 ### Demo
