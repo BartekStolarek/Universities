@@ -22,7 +22,7 @@ var app = new Vue({
       return "http://www.countryflags.io/" + countryCode + "/flat/64.png";
     },
     handleScroll () {
-      if (window.scrollY >= $("#results").height()-300) {
+      if (window.scrollY >= $("#results").height()-400) {
         this.dataToLoad += 27;
       }
     }
