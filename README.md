@@ -21,4 +21,4 @@ http://universities.bartekstolarek.epizy.com
 Unfortunately, REST API is not providing data with HTTPS, so make sure that you have CROSS Origin enabled in your browser.
 
 ### Screens
-![Alt Text](https://image.ibb.co/cSUcXx/universities.gif)
+![Alt Text](https://image.ibb.co/ncUY5H/universities.gif)
